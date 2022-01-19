@@ -1,6 +1,7 @@
 # GartnerMicroservices
 
 Pros: Scalability, new features and capabilities, continuous delivery of services
+
 Cons: Complex and culturally disruptive architectural model, requires significant investment in people, processes and platforms, very different in terms of traditional data management, reporting and analysis, highly skilled application architects and DevOps engineers
 
 Microservices are scalable application components that are loosely couples and strongly encapsulated. Microservices architecture relates to the service-oriented architeturce and domain-driven design that are used to deliver distributed applications. It is an architectural paradigm, as well as an implementation model for building services and cloud-native applications. The main objectives of microservices architecture is development agility, deployment flexibility, and precise scalability. 
